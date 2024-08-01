@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>forms</title>
+</head>
+<body>
+<lable for="suraj">boy</lable>
+<input type="radio" id="suraj">
+
+    
+</body>
+</html>
